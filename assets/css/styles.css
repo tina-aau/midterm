@@ -1,17 +1,1 @@
 /* styles.css */
-* {
-	font-family: Arial;
-}
-
-.italianno-regular {
-  font-family: "Italianno", cursive;
-  font-size: 60px;
-  font-weight: 400;
-  font-style: cursive;
-}
-body {
-    background: #fac07e;
-    text-align: center;
-    font-family: 'Italianno', cursive;
-    font-size: 30px;
-}
