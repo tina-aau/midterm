@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>My Email</title>
+	<link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body style="text-align:center;">
+	<div class="top" style="text-align:left;">
+        <a href="01.html">Back</a>
+    </div>
+
+  <h1>mailto:dal023679@utdallas.edu</h1>
